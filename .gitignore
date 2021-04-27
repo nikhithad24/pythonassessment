@@ -1,0 +1,19 @@
+# Pycharm trash
+.coverage
+.idea
+__pycache__/
+venv/
+
+
+# Distribution
+.DS_Store
+.cache/
+
+# python identifiers
+.python-version
+
+# pytest reports
+reports/
+
+# browser trash
+geckodriver.log

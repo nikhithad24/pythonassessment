@@ -1,0 +1,4 @@
+url: https://clarity.dexcom.com/
+username: codechallenge
+password: Password123
+api: /api/subject/1681277794575765504/analysis_session
